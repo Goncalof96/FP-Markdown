@@ -17,3 +17,5 @@ Linguagens de programação conhecidas:
 -> VB
 
 -> JS
+
+![IPLeiria](leiria.png)

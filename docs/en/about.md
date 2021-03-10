@@ -6,6 +6,6 @@ Gonçalo Santos Ferreira
 
 2201131
 
-Site criado para aprender a usar Markdown na escrita de documentação
+Site created to learn how to use Markdown in document writing
 
 ![IPLeiria](leiria.png)
